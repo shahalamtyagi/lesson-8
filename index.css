@@ -1,0 +1,10 @@
+.main-container{
+    text-align: center;
+    display: block;
+    margin: 3rem;
+}
+.header{
+    background-color: darkblue;
+    color: beige;
+
+}
