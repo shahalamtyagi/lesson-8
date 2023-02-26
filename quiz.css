@@ -1,0 +1,26 @@
+
+.header2{
+    background-color:darkblue;
+    color: azure;
+    border-radius: 1rem;
+    height: 5rem;
+}
+.nav-link2{
+    color: white;
+    text-align: right;
+    margin-bottom: 2rem;
+    font-size: large;
+}
+.nav2-link{
+    color: beige;
+    /* padding: 1rem; */
+    /* margin-left: 1rem; */
+    text-align: right;
+    font-size: larger;
+    margin:1rem;
+}
+.quiz-form{
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+}

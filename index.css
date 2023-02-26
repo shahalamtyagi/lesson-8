@@ -2,9 +2,47 @@
     text-align: center;
     display: block;
     margin: 3rem;
+    font-size: 1.5rem;
+/* border: 5px solid blue;
+background-color: blueviolet; */
 }
 .header{
     background-color: darkblue;
     color: beige;
-
+    /* margin: 1rem; */
+    border-radius: 1rem;
+}
+.nav-link{
+    color: beige;
+    padding: 6px;
+    /* margin-left: 5rem */
+}
+.angle-Input{
+   display: flex;
+   flex-direction: column;
+   padding: auto;
+   margin: auto;
+   height: 2rem;
+   text-align: center;
+   color: blue;
+   border-radius: 5px;
+   border: 2px solid blue;
+}
+#output{
+    color:black;
+    font-size: larger;
+    padding: 1rem;
+    
+}
+#triangle-Btn{
+    margin-top: 1rem;
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    border-radius: 5px;
+    
+}
+.nav{
+    text-align: right;
+    font-size: larger;
 }
