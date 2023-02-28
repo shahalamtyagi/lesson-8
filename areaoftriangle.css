@@ -1,0 +1,44 @@
+.header2{
+    background-color: blue;
+    color: white;
+    border-radius: 1rem;
+}
+.nav2-link{
+    color: white;
+    margin: 1rem;
+}
+.nav-link2{
+    text-align: right;
+    padding: 1rem;
+    font-size: larger;
+}
+.main-container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding-left: 27rem;
+}
+input{
+    font-size: larger;
+    text-align: center;
+}
+#Calculate-btn{
+    margin-top: 1rem;
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    border-radius: 5px;
+    /* margin-top: 1rem;
+    width: 30%;
+    margin-left: 8rem;
+    text-align: center;
+    background-color: ; */
+}
+label{
+    font-size: larger;
+}
+#triangle-output{
+    padding-top: 1rem;
+    font-size: larger;
+}

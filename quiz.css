@@ -10,15 +10,33 @@
     text-align: right;
     margin-bottom: 2rem;
     font-size: large;
+    /* padding: 2rem; */
 }
 .nav2-link{
     color: beige;
-    /* padding: 1rem; */
-    /* margin-left: 1rem; */
-    text-align: right;
+    /* padding: 1rem;  */
+     margin-left: 1rem; 
+     text-align: right;
     font-size: larger;
-    margin:1rem;
+    /* margin:1rem; */
 }
+.nav{
+    padding: 1rem;
+}
+/* .header2{
+    background-color: blue;
+    color: white;
+    border-radius: 1rem;
+}
+.nav2-link{
+    color: white;
+    margin: 1rem;
+}
+.nav-link2{
+    text-align: right;
+    padding: 1rem;
+    font-size: larger;
+} */
 .quiz-form{
     text-align: center;
     padding: 2rem;

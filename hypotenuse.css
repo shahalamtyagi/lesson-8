@@ -6,7 +6,6 @@
 }
 .nav-link2{
     color: white;
-    /* margin-left: 5rem; */
     text-align: right;
 }
 .heading{
@@ -36,5 +35,12 @@
 }
 #output{
     margin-top: 1rem;
+    font-size: larger;
+}
+.nav{
+    text-align: right;
+    margin: 1rem;
+    font-size: larger;
+    
     font-size: larger;
 }
